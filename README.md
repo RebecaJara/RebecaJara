@@ -1,10 +1,6 @@
 # ¡Hi! 👋 I'm Rebeca Jaramillo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software Developer;Apasionado+por+el+c%C3%B3digo+limpio;Construyendo+proyectos+geniales" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="www.linkedin.com/in/rebeca-jaramillo-camarillo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tu.correo.academico@universidad.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -53,15 +49,3 @@ Welcome to my profile! I'm currently in my senior year of the Computer Science p
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
----
-
-### ☕ Vida de Estudiante (Intereses Personales)
-
-- 🧩 **Competitive Programming:** Practico problemas en [LeetCode / HackerRank / Codeforces].
-- 🎮 **Gaming:** Me gustan los videojuegos de [estrategia / RPG / simulación].
-- 📚 **Lectura:** Leyendo actualmente libros de [tecnología, ciencia ficción o divulgación científica].
-- 🎧 **Música:** Programo y estudio escuchando [Lo-Fi Beats / Synthwave / BSO de videojuegos].
-
----
